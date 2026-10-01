@@ -1,0 +1,9 @@
+network:
+  version: 2
+  ethernets:
+    eth0:
+      match:
+        macaddress: "d0:0d:65:52:ad:d9"
+      dhcp4: true
+      dhcp6: false
+      set-name: "eth0"

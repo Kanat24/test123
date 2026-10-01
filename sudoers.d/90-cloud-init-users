@@ -1,0 +1,4 @@
+# Created by cloud-init v. 26.1-0ubuntu1~22.04.1 on Thu, 01 Oct 2026 17:04:53 +0000
+
+# User rules for kanat
+kanat ALL=(ALL) NOPASSWD:ALL
